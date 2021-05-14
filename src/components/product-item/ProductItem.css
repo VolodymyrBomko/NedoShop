@@ -1,0 +1,14 @@
+.logo{
+   width: 100px;
+   height: 100px; 
+}
+.wrapper{
+   display:flex;
+   margin: 10px;
+   border: 4px double black;
+   width: 400px;
+   height: 400px;
+   background: #fc3;
+   overflow: scroll
+
+}
